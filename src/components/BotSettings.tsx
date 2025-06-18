@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Label } from '@/components/ui/label'
 import { Badge } from '@/components/ui/badge'
-import { Bot, Settings, Save, Play, AlertCircle, CheckCircle, Sparkles, Clock } from 'lucide-react'
+import { Bot, Settings, Save, Play, AlertCircle, CheckCircle, Sparkles, Clock, Plus } from 'lucide-react'
 
 interface SavedPrompt {
   id: string
